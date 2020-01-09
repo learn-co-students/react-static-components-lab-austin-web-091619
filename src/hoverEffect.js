@@ -2,13 +2,13 @@
 
 const rippleSettings = {
   maxSize: 100,
-  animationSpeed: 2,
+  animationSpeed: 9,
   strokeColor: [45, 45, 45],
 };
 
 const canvasSettings = {
-  blur: 8,
-  ratio: 1,
+  blur: 1,
+  ratio: 500,
 };
 
 function Coords(x, y) {
